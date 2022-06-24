@@ -1,8 +1,9 @@
 print("Hello Gaurav.....")
 
-b=5
-c=6
+b=22
+c=21
 a = b + c
 print(a)
 
-print("this code is changed at 15.58")
+print("this code is changed at 16.13")
+
